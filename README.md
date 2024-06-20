@@ -1,4 +1,4 @@
-# Adv.-Retrieval-augmented-retrieval
+# Adv.-Retrieval-augmented-generation
 
 This Streamlit application allows users to upload a PDF file, ask questions about its content, and receive answers using a language model. Here’s a short summary of the code:
 1.	Setup and Imports:
