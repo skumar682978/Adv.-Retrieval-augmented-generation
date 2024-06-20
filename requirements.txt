@@ -1,0 +1,9 @@
+langchain-core 
+langchain-community 
+langchain-openai
+python-dotenv
+pymupdf
+faiss-cpu
+langchainhub
+streamlit
+cohere
