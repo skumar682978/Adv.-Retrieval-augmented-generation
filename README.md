@@ -20,6 +20,7 @@ This Streamlit application allows users to upload a PDF file, ask questions abou
 -	Create a Streamlit application with a title "Talk to your PDF".
 -	Add a sidebar for PDF file upload.
 -	Provide an input field for the user's query.
--	On button click, call the rag function to process the query and display the result.
+-	On button click, call the rag function to process the query and display the result
+  
 The app integrates PDF handling, document chunking, embedding, retrieval, and a language model to answer user questions about the content of the uploaded PDF.
 
